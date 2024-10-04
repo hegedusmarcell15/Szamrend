@@ -1,0 +1,7 @@
+C:\Users\hegedusm\gitwork\Oraimunka11B\Szamrendszerek\obj\Debug\Szamrendszerek.csproj.AssemblyReference.cache
+C:\Users\hegedusm\gitwork\Oraimunka11B\Szamrendszerek\obj\Debug\Szamrendszerek.csproj.CoreCompileInputs.cache
+C:\Users\hegedusm\gitwork\Oraimunka11B\Szamrendszerek\bin\Debug\Szamrendszerek.exe.config
+C:\Users\hegedusm\gitwork\Oraimunka11B\Szamrendszerek\bin\Debug\Szamrendszerek.exe
+C:\Users\hegedusm\gitwork\Oraimunka11B\Szamrendszerek\bin\Debug\Szamrendszerek.pdb
+C:\Users\hegedusm\gitwork\Oraimunka11B\Szamrendszerek\obj\Debug\Szamrendszerek.exe
+C:\Users\hegedusm\gitwork\Oraimunka11B\Szamrendszerek\obj\Debug\Szamrendszerek.pdb
